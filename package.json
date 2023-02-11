@@ -1,0 +1,25 @@
+{
+  "name": "interview-lucas-faustman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://LucasFaustman@bitbucket.org/InsideDesk/interview-lucas-faustman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/InsideDesk/interview-lucas-faustman/issues"
+  },
+  "homepage": "https://bitbucket.org/InsideDesk/interview-lucas-faustman#readme",
+  "dependencies": {
+    "puppeteer": "^19.6.3"
+  },
+  "type": "module",
+  "types": "module"
+}
