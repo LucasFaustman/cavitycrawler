@@ -53,7 +53,7 @@ InsideDesk Dev Team.
 
 ## Assumptions
 
-1. A linear to quadratic time complexity is probably fine.
+1. A linear to quadratic time complexity is probably fine. A video explaining this decision can be found here: https://www.youtube.com/watch?v=qERyn6lWKas&ab_channel=LucasFaustman
 
 ## Solution formulation
 
