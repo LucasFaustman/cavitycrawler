@@ -7,7 +7,8 @@ const rl = readline.createInterface({
   output: process.stdout
 });
   
-rl.question('Enter the payor name:', (answer) => {
+rl.question('Enter the payer name:', (answer) => {
+    console.log(`Looking for ${answer}...`)
     getDentrixPayerData(answer);
     getDentalXChangePayerData(answer)
     rl.close();

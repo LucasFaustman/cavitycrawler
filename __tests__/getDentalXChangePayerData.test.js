@@ -12,7 +12,7 @@ describe('getDentalXChangePayerData', () => {
 
     spy.mockRestore();
   });
-  test('Return a correct value for a specific dentalXChange payor Worksite Benefit Service"', async () => {
+  test('Return a correct value for a specific dentalXChange payer (Worksite Benefit Service)"', async () => {
     const searchTerm = `Worksite Benefit Service`;
     const spy = jest.spyOn(console, 'log');
     const result = await getDentalXChangePayerData(searchTerm);
