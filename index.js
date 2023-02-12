@@ -12,3 +12,5 @@ rl.question('Enter the payor name:', (answer) => {
     getDentalXChangePayerData(answer)
     rl.close();
 });
+
+

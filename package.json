@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,9 +17,17 @@
     "url": "https://bitbucket.org/InsideDesk/interview-lucas-faustman/issues"
   },
   "homepage": "https://bitbucket.org/InsideDesk/interview-lucas-faustman#readme",
-  "dependencies": {
+  "type": "module",
+  "types": "module",
+  "devDependencies": {
+    "jest": "^29.4.2",
+    "jest-puppeteer": "^7.0.0",
     "puppeteer": "^19.6.3"
   },
-  "type": "module",
-  "types": "module"
+  "dependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/register": "^7.18.9",
+    "babel-jest": "^29.4.2"
+  }
 }

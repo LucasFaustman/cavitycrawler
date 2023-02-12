@@ -2,7 +2,7 @@ import puppeteer from "puppeteer";
 
 const getDentalXChangePayerData = async (searchTerm) => {
   const browser = await puppeteer.launch({
-    slowMo: 10
+    slowMo: 20
   });
     const page = await browser.newPage();
     await page.goto("https://register.dentalxchange.com/reg/payerList", {
@@ -70,3 +70,6 @@ const getDentalXChangePayerData = async (searchTerm) => {
   };
 
   export { getDentalXChangePayerData };
+
+  //Uncomment to enable testing
+  // module.exports = getDentalXChangePayerData;

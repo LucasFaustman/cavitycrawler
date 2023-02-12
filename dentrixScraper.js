@@ -65,3 +65,7 @@ const getDentrixPayerData = async (searchTerm) => {
   };
 
   export { getDentrixPayerData };
+
+  //Uncomment to enable testing
+  // module.exports = getDentrixPayerData;
+
