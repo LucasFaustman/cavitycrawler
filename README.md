@@ -2,7 +2,7 @@
 
 My friend is a Dentist in the States who is trying to decide what Practice Management System (PMS) they should use for their dental practice.
 They have narrowed it down to two options [Dentrix](https://www.dentrix.com/), and [DentalXChange](https://www.dentalxchange.com/home/Home).
-They have asked you to find a way to compare the two PMSs to see which one will work best for their practice.
+They have asked me to find a way to compare the two PMSs to see which one will work best for their practice.
 
 ## Demo Video : https://www.youtube.com/watch?v=1aoZHC3wtiE&ab_channel=LucasFaustman
 
