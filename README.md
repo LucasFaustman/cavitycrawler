@@ -8,7 +8,7 @@ They have asked me to find a way to compare the two PMSs to see which one will w
 
 ## Assumptions
 
-1. I assumed that a quadratic solution would be fine.
+1. I assumed that a quadratic solution would be fine. The program will go through each page on both Dentrix and DentalXChange, and each result, to find a match.
 
 ## Solution formulation
 
