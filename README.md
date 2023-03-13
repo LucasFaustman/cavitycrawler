@@ -8,7 +8,7 @@ They have asked me to find a way to compare the two PMSs to see which one will w
 
 ## Assumptions
 
-1. A linear to quadratic time complexity is probably fine. A video explaining this decision can be found here: https://www.youtube.com/watch?v=qERyn6lWKas&ab_channel=LucasFaustman
+1. I assumed that a quadratic solution would be fine.
 
 ## Solution formulation
 
@@ -45,3 +45,21 @@ Steps done when building:
 1. Make the program run faster through some sort of divide and conquer algorithm.
 2. Find out if there is a more optimal data scraping library than Puppeteer.
 3. Instead of running everything in the command line, a more built-out UI would be nice for production use.
+
+## Examples
+
+Take a look at these other examples that I have in my portfolio:
+
+Travel-Buddi: https://github.com/LucasFaustman/travel-buddi
+
+Lucas Faustman Portfolio website: https://github.com/LucasFaustman/lucas-faustman-portfolio
+
+myPlayer.io: https://github.com/LucasFaustman/nba-Stat-Project
+
+Local Freelance Makeup Artist: https://github.com/LucasFaustman/local-makeup-artist-website
+
+My Small CRM: https://github.com/LucasFaustman/my-small-crm/tree/main
+
+BillTrackr: https://github.com/Ash1eyC0des/bill-trackr
+
+Bench Banter: https://github.com/LucasFaustman/benchbanter
